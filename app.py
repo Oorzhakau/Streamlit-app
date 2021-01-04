@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 DATA_URL = (
-"Motor_Vehicle_Collisions_-_Crashes.csv"
+"Data.csv"
 )
 
 st.title("Motor Vehucle Collisions in New York City")
